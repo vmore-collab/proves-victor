@@ -1,3 +1,7 @@
+documentacio
+
 > Víctor Moré Gil
-> 26/10/2025
+> 26 octubre 2025
 > Ins Mollerussa
+
+Fi de documentacio
